@@ -19,4 +19,4 @@ serde_derive = "1.0"
 serde_json = "1.0"
 thiserror = "1.0"
 tiny-keccak = { version = "2.0", features = ["keccak"] }
-web3 = "0.10"
+web3 = { git = "https://github.com/ducthotran2010/rust-web3", branch = "compatible-web3-0.10.0" }

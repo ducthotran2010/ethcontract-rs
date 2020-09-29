@@ -19,6 +19,7 @@ pub use crate::source::Source;
 pub use crate::util::parse_address;
 use anyhow::Result;
 pub use ethcontract_common::Address;
+pub use ethcontract_common::BytesArray;
 use proc_macro2::TokenStream;
 use std::collections::HashMap;
 use std::fs::File;
