@@ -4,7 +4,4 @@ members = [
   "ethcontract-common",
   "ethcontract-derive",
   "ethcontract-generate",
-  "examples",
-  "examples/documentation",
-  "examples/generate",
 ]
